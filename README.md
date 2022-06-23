@@ -1,11 +1,15 @@
 # Azure Static Web Apps F#6/.NET 6 Feliz Template
 
-This repository contains a template for creating an [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=dotnet-33392-aapowell) projects using Feliz, Paket and F# Azure Functions.
+This repository contains a template for creating an [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=dotnet-33392-aapowell) projects using Feliz and F# Azure Functions.
+
+Loosely based on: [swa-feliz-template](https://github.com/aaronpowell/swa-feliz-template)
 
 TODO:
 - Feliz.DaisyUi
 - Tailwind
 - Better configuration for Vite
+- Maybe Fable.Remoting?
+- Maybe support for some DB? MongoDB?
 
 To get started clone the repository.
 
