@@ -30,11 +30,9 @@ $> npm install
 $> npm install -g @azure/static-web-apps-cli azure-functions-core-tools@4
 ```
 
-With all dependencies installed, you can launch the apps, which will require three terminals:
+With all dependencies installed, you can launch the apps with a single command:
 
-1. Termainl 1: `npm start`
-1. Terminal 2: `cd api && func start`
-1. Terminal 3: `swa start http://localhost:3000 -api http://localhost:7071`
+`swa start`
 
 Then you can navigate to `http://localhost:4280` to access the emulator.
 
