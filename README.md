@@ -8,8 +8,6 @@ TODO:
 - Feliz.DaisyUi
 - Tailwind
 - Better configuration for Vite
-- Maybe Fable.Remoting?
-- Maybe support for some DB? MongoDB?
 
 To get started clone the repository.
 
